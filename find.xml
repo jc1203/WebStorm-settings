@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*s.ts</mask>
+      <mask>*.sts</mask>
+      <mask>*.spts</mask>
+      <mask>*.spets</mask>
+      <mask>*.spects</mask>
+      <mask>*.spec.ts</mask>
+      <mask>*.spe.ts</mask>
+      <mask>*.sp.ts</mask>
+      <mask>*.s.ts</mask>
+      <mask>*..ts</mask>
+      <mask>*.ts</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
+    </recentFileMasks>
+  </component>
+</application>
