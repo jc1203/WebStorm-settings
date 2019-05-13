@@ -1,15 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="skipResultsWithOneUsage" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,7 +14,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.html</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
